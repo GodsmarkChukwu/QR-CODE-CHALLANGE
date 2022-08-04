@@ -1,0 +1,39 @@
+body{
+    background:hsl(212, 45%, 89%);
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+main{
+    background: white;
+    max-width: 300px;
+    padding: 15px;
+    border-radius: 20px;
+    margin-top: auto;
+    margin-bottom: auto;
+
+}
+
+#image{
+    width: 100%;
+    border-radius: 12px;
+}
+
+#note{
+    color: hsl(218, 44%, 22%);
+    text-align: center;
+     font-weight: 700;
+     padding: 20px 0px;
+     font-size: 1.4em;
+
+}
+
+#scan{
+    color:hsl(220, 15%, 55%);
+    text-align: center;
+    font-size: 15px;
+    padding: 0px 20px 20px 20px;
+    font-weight: 400;
+}
